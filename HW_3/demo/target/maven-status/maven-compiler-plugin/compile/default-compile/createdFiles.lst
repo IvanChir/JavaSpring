@@ -1,0 +1,10 @@
+com\example\demo\User.class
+com\example\demo\RestApplication.class
+com\example\demo\HelloController.class
+com\example\demo\UserController.class
+com\example\demo\UserServiceImpl.class
+com\example\demo\NotificationServiceImpl.class
+com\example\demo\RegistrationService.class
+com\example\demo\NotificationService.class
+com\example\demo\UserRepository.class
+com\example\demo\UserService.class
