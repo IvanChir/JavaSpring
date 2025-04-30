@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Task List</title>
+    <link rel="stylesheet" type="text/css" th:href="@{/css/styles.css}">
+    <script th:src="@{/js/scripts.js}"></script>
+</head>
+<body>
+<h1>Task List</h1>
+<div>
+    <input type="text" id="newTaskDescription" placeholder="New Task Description" />
+    <button class="add-task-button">Add Task</button>
+</div>
+<div id="taskList" th:each="task : ${tasks}">
+    <div class="task">
+        <p th:text="${task.description}"></p>
+        <p>Status: <span th:text="${task.status}"></span></p>
+    </div>
+</div>
+</body>
+</html>
