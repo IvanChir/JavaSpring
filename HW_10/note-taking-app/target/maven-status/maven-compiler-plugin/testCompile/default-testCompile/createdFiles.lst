@@ -1,0 +1,3 @@
+com\example\notetakingapp\NoteTakingAppApplicationTests.class
+com\example\notetakingapp\controller\NoteControllerIntegrationTest.class
+com\example\notetakingapp\controller\NoteControllerTest.class

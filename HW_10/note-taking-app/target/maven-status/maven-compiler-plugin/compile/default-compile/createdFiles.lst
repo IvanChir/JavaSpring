@@ -1,0 +1,4 @@
+com\example\notetakingapp\controller\NoteController.class
+com\example\notetakingapp\NoteTakingApplication.class
+com\example\notetakingapp\model\Note.class
+com\example\notetakingapp\repository\NoteRepository.class
