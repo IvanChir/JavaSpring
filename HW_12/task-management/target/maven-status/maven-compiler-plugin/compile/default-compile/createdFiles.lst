@@ -1,0 +1,8 @@
+com\example\taskmanagement\TaskController.class
+com\example\taskmanagement\TaskManagementApplication.class
+com\example\taskmanagement\Observer.class
+com\example\taskmanagement\Task.class
+com\example\taskmanagement\RequestLogger.class
+com\example\taskmanagement\Subject.class
+com\example\taskmanagement\TaskObserver.class
+com\example\taskmanagement\TaskService.class
